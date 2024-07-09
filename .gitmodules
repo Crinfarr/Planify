@@ -1,6 +1,3 @@
-[submodule ".haxelib/haxeui-core/git"]
-	path = .haxelib/haxeui-core/git
-	url = git@github.com:haxeui/haxeui-core
 [submodule ".haxelib/haxeui-html5/git"]
 	path = .haxelib/haxeui-html5/git
 	url = git@github.com:haxeui/haxeui-html5
@@ -13,3 +10,6 @@
 [submodule ".haxelib/hxcpp/git"]
 	path = .haxelib/hxcpp/git
 	url = git@github.com:haxefoundation/hxcpp
+[submodule ".haxelib/haxeui-core/git"]
+	path = .haxelib/haxeui-core/git
+	url = git@github.com:haxeui/haxeui-core
