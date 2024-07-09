@@ -1,0 +1,12 @@
+{
+    "haxe.configurations": [
+        {
+            "files": ["../hxml/pc.hxml"],
+            "label": "PC"
+        },
+        {
+            "files": ["../hxml/web.hxml"],
+            "label": "Web"
+        }
+    ]
+}
