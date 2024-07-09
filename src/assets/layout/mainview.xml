@@ -1,10 +1,11 @@
 <vbox width="100%" height="100%">
     <style>
-        * {
-            font-family: "fonts/FantasqueSans.ttf"
+        .label {
+            font-name: "fonts/FantasqueSans.ttf"
         } 
     </style>
-    <label text="test label lmao"/>
+    <label text="1234567890()--~~=>!!=!="/>
     <label text="sphinx of black quartz judge my vow"/>
-    <label text="\uf2fb \uebd0 \uefc6"/>
+    <label text="SPHINX OF BLACK QUARTZ JUDGE MY VOW"/>
+    <label text="  "/>
 </vbox>
