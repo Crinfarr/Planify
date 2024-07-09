@@ -1,0 +1,5 @@
+# keep index.html
+pkg/*
+!pkg/web
+pkg/web/*
+!pkg/web/index.html

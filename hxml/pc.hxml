@@ -1,0 +1,7 @@
+-cp src
+--main Main
+-L haxeui-core
+-L haxeui-hxwidgets
+-L hxWidgets
+--cpp pkg/bin
+-D pc
